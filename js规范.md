@@ -54,6 +54,8 @@ utf-8 (无 bom)
 ## 避免定义全局变量
 禁止示例：
 ```
+// global scope
+
 var name = 'wsf';
 ```
 
